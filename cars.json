@@ -1,0 +1,32 @@
+{
+  [
+    {
+      "mark": "Toyota",
+      "model": "Camry",
+      "volume": 2.5,
+      "transmission": "auto",
+      "price": {
+        "1day": 16000,
+        "10day": 12000,
+        "20day": 10000,
+        "30day": 8000
+      },
+      "deposit": 50000,
+    }
+    {
+      "mark" :     "Toyota",
+      "model"  :      "Avensis",
+      "volume"    :      2.4,
+      "transmission"      :      "auto",
+      "seats": 5,
+      "price"  :
+      {
+        "1day": 16000,
+        "10day": 12000,
+        "20day": 10000,
+        "30day": 8000
+      },
+      "deposit"      :40000
+    }
+  ]
+}
